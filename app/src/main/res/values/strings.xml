@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">qr_code_scanner_generator</string>
+    <string name="qr_code">QR Code</string>
+    <string name="generator_scanner">Generator &amp; Scanner</string>
+    <string name="get_started">Get Started</string>
+    <string name="scan">Scan</string>
+    <string name="create">Create</string>
+    <string name="history">History</string>
+    <string name="setting">Setting</string>
+    <string name="text">Text</string>
+    <string name="wifi">Wifi</string>
+    <string name="contact">Contact</string>
+    <string name="sms">SMS</string>
+    <string name="url">URL</string>
+    <string name="clipboard">Clipboard</string>
+    <string name="email">Email</string>
+    <string name="apps">Apps</string>
+    <string name="event">Event</string>
+    <string name="card">Card</string>
+    <string name="location">Location</string>
+    <string name="product_code">Product Code</string>
+    <string name="go_back_button">Button to go back</string>
+    <string name="create_qr">Create QR</string>
+</resources>
