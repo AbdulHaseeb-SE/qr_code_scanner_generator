@@ -49,7 +49,6 @@ class MainActivity : ComponentActivity() {
         }
     }
 
-
     @Composable
     fun ObserverBottomNavItems(
         viewModel: BottomNavViewModel, bottomNavItemList: MutableList<BottomNavItemResponse>
